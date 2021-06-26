@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi 👋
 
-<!--
-**danilorocha22/danilorocha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Danilo Rocha, I'm from Brazil🇧🇷, I'm a student of the Internet Systems Technology Course at the Federal Institute of Education of Tocantins, I'm studying to be a full-stack developer.
 
-Here are some ideas to get you started:
+I'm passionate about problem solving and constantly learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#####  ״It is not the programming language that defines the programmer, but its logic.
+
+- 📍 Living in Palmas-To
+
+#### Technologies:
+<p>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+
+
+</p>
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilorocha22&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Danilo Rocha" width="400"/>
+</p>
+
+<h4>Find me</h4>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-rocha-silva-18a52317a/)](https://www.linkedin.com/in/danilo-rocha-silva-18a52317a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo.rochaa@gmail.com)](mailto:danilo.rochaa@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DaniloRochaSil6)](https://twitter.com/DaniloRochaSil6/)

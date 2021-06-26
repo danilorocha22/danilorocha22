@@ -1,6 +1,6 @@
 # Hi 👋
 
-My name is Danilo Rocha, I'm from Brazil🇧🇷, I'm a student of the Internet Systems Technology Course at the Federal Institute of Education of Tocantins, I'm studying to be a full-stack developer.
+My name is Danilo Rocha, I'm from Brazil 🇧🇷, I'm a student of the Internet Systems Technology Course at the Federal Institute of Education of Tocantins, I'm studying to be a full-stack developer.
 
 I'm passionate about problem solving and constantly learning. Always open to new challenges and ready to face changes.
 
@@ -19,7 +19,7 @@ I'm passionate about problem solving and constantly learning. Always open to new
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilorocha22&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=268bd2" alt="Danilo Rocha" width="400"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilorocha22&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=white" alt="Danilo Rocha" width="400"/>
 </p>
 
 <h4>Find me</h4>

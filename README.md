@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi there 👋
 
 My name is Danilo Rocha, I'm from Brazil 🇧🇷, I'm a student of the Internet Systems Technology Course at the Federal Institute of Education of Tocantins, I'm studying to be a full-stack developer.
 

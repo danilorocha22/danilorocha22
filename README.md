@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Danilo Rocha, I'm from Brazil 🇧🇷, I'm a student of the Internet Systems Technology Course at the Federal Institute of Education of Tocantins, I'm studying to be a full-stack developer.
+My name is Danilo Rocha, I'm from Brazil 🇧🇷, I'm a student of the Internet Systems Technology Course at the Federal Institute of Education of Tocantins, I'm studying to be a full-stack developer Java Web.
 
 I'm passionate about problem solving and constantly learning. Always open to new challenges and ready to face changes.
 

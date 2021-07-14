@@ -9,7 +9,7 @@ I'm passionate about problem solving and constantly learning. Always open to new
 - 📍 Living in Palmas-To
 
 #### Conhecimentos:
-< p >
+<p>
  - HTML5, CSS, JavaScript, JQuery, Bootstrap, Vue.js e PrimeVue;
  - Java SE, Java Web (Servlets, JSP, JPA);
  - Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, Swagger, SQL;

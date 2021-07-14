@@ -8,15 +8,13 @@ I'm passionate about problem solving and constantly learning. Always open to new
 
 - 📍 Living in Palmas-To
 
-#### Technologies:
-<p>
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-
-
-
-</p>
+#### Conhecimentos:
+< p >
+ - HTML5, CSS, JavaScript, JQuery, Bootstrap, Vue.js e PrimeVue;
+ - Java SE, Java Web (Servlets, JSP, JPA);
+ - Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, Swagger, SQL;
+ - BD MySQL e PostgreSQL;
+</ p>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilorocha22&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=white" alt="Danilo Rocha" width="400"/>

@@ -12,6 +12,7 @@ I'm passionate about problem solving and constantly learning. Always open to new
  - HTML5, CSS, JavaScript, JQuery, Bootstrap, Vue.js e PrimeVue.
  - Java SE, Java Web (Servlets, JSP, JPA).
  - Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, Swagger, SQL.
+ - Desenvolvimento Android Nativo Java.
  - BD MySQL e PostgreSQL.
 
 <p>

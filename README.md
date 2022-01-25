@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Danilo Rocha, I'm from Brazil 🇧🇷, I graduated from the Internet Systems Technology Course at the Federal Institute of Education of Tocantins and continued studying to be a full-stack Java Web developer.
+My name is Danilo Rocha, I'm Brazilian 🇧🇷, I graduated from the Internet Systems Technology Course at the Federal Institute of Education of Tocantins and I'm continuously studying to become a full-stack Java web developer better every day.
 
 I'm passionate about problem solving and constantly learning. Always open to new challenges and ready to face changes.
 

@@ -15,11 +15,11 @@ I'm passionate about problem solving and constantly learning. Always open to new
  - Desenvolvimento Android Nativo Java.
  - BD MySQL e PostgreSQL.
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danilorocha22&count_private=true&show_icons=true&theme=dark&icon_color=268bd2&title_color=white" alt="Danilo Rocha" width="400"/>
-</p>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilorocha22)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>Find me</h4>
 

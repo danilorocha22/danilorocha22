@@ -8,12 +8,21 @@ I'm passionate about problem solving and constantly learning. Always open to new
 
 - 📍 Living in Palmas-To
 
-#### Conhecimentos:
+#### Hard Skilss:
  - HTML5, CSS, JavaScript, JQuery, Bootstrap, Vue.js e PrimeVue.
  - Java SE, Java Web (Servlets, JSP, JPA).
  - Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, Swagger, SQL.
  - Desenvolvimento Android Nativo Java.
  - BD MySQL e PostgreSQL.
+
+#### Hard Skilss:
+ - Trabalho em equip;
+ - Comunicação interpessoal;
+ - Proatividade;
+ - Resolução de conflitos;
+ - Capacidade de trabalhar sob pressão;
+ - Senso de liderança;
+ - Capacidade analítica.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilorocha22&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

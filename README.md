@@ -17,9 +17,7 @@ I'm passionate about problem solving and constantly learning. Always open to new
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilorocha22)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilorocha22)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilorocha22&repo=github-readme-stats)](https://github.com/danilorocha22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilorocha22&layout=compact)](https://github.com/danilorocha22/github-readme-stats)
 
 <h4>Find me</h4>
 

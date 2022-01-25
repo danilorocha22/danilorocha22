@@ -30,6 +30,6 @@ I'm passionate about problem solving and constantly learning. Always open to new
 
 <h4>Find me</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-rocha-silva-18a52317a/)](https://www.linkedin.com/in/danilo-rocha-silva-18a52317a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-r-18a52317a/)](https://www.linkedin.com/in/danilo-r-18a52317a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo.rochaa@gmail.com)](mailto:danilo.rochaa@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DaniloRochaSil6)](https://twitter.com/DaniloRochaSil6/)

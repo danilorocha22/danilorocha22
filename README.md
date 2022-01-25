@@ -4,7 +4,7 @@ My name is Danilo Rocha, I'm Brazilian 🇧🇷, I graduated from the Internet S
 
 I'm passionate about problem solving and constantly learning. Always open to new challenges and ready to face changes.
 
-#####  ״It is not the programming language that defines the programmer, but its logic.
+#####  ״It is not the programming language that defines the programmer, but its logic."
 
 - 📍 Living in Palmas-To
 

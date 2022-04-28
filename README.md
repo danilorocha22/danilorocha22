@@ -29,10 +29,6 @@ I'm passionate about problem solving and constantly learning. Always open to new
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilorocha22&layout=compact&show_icons=true&theme=dark)](https://github.com/danilorocha22/github-readme-stats)
 
 <h4>Find me</h4>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="danilo-r-18a52317a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/danilo-r-18a52317a?trk=profile-badge">Danilo R.</a></div>
               
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-r-18a52317a/)](https://www.linkedin.com/in/danilo-r-18a52317a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo.rochaa@gmail.com)](mailto:danilo.rochaa@gmail.com)

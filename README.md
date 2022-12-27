@@ -9,18 +9,17 @@ I'm passionate about problem solving and constantly learning. Always open to new
 - 📍 Living in Palmas-To
 
 #### Hard skills:
- - HTML5, CSS, JavaScript, JQuery, Bootstrap, Vue.js e PrimeVue.
+ - HTML5, CSS, JavaScript, JQuery, Bootstrap, Angular e PrimeNG.
  - Java SE, Java Web (Servlets, JSP, JPA).
  - Spring Boot, Spring MVC, Spring Data JPA, Thymeleaf, Swagger, SQL.
  - Desenvolvimento Android Nativo Java.
- - BD MySQL e PostgreSQL.
+ - MySQL, PostgreSQL e H2
 
 #### Soft skills:
  - Trabalho em equip;
  - Comunicação interpessoal;
  - Proatividade;
  - Resolução de conflitos;
- - Capacidade de trabalhar sob pressão;
  - Senso de liderança;
  - Capacidade analítica.
 

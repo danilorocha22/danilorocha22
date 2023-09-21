@@ -9,9 +9,9 @@ I'm passionate about problem solving and constantly learning. Always open to new
 - 📍 Living in Palmas-To
 
 #### Hard skills:
- - HTML5, CSS, JavaScript, Bootstrap, Angular e PrimeNG;
- - Java e Spring Framework;
- - Desenvolvimento Android Nativo Java;
+ - HTML5, CSS, JavaScript, Bootstrap, Angular e PrimeNg;
+ - Java, JSF, PrimeFaces e Spring Framework;
+ - Android nativo em Java;
  - MySQL, PostgreSQL e H2.
 
 #### Soft skills:
